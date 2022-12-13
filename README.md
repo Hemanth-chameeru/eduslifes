@@ -25,7 +25,7 @@ This is a web based application developed for .......
 ![Screenshot (50)](https://user-images.githubusercontent.com/116478333/207287670-f58945d6-c4fe-4d9a-b1ae-e910514938f4.png)
 
 ## privacy policy
-![Screenshot (50)](https://user-images.githubusercontent.com/116478333/207287687-f0b74567-1b97-4ffe-b5f1-a12a97bf718a.png)
+![Screenshot (51)](https://user-images.githubusercontent.com/116478333/207288096-26f59e34-02e4-4201-a285-49ca44cc6614.png)
 
 ## posts
 ![Screenshot (52)](https://user-images.githubusercontent.com/116478333/207287724-cdf9d2bf-8052-4e64-b104-1b041e82bc4c.png)
